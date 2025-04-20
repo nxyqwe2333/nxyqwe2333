@@ -1,1 +1,4 @@
-1，成功提交
+三步
+1，git add 文件名
+2.git commit -m "测试是否成功"
+3. git push origin main
